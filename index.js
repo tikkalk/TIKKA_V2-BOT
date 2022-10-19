@@ -1,6 +1,6 @@
   
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️ ®️ALL RIGHTS RESERVED
+//▮⚜️TIKKA 𝘔𝘋_BOT-V2⚜️ ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
