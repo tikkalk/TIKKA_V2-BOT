@@ -1,5 +1,5 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "⚜️TIKKA MD_BOT-V2 ⚜",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/zim-bot/zimbot-v2",
   "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
@@ -7,9 +7,9 @@
    "env": {
   
  "OWNER_NAME" :{
-    "description" : "enter you name",
+    "description" : "enter your name",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "THEEKSHANA"
     },
     
      
@@ -17,7 +17,7 @@
 "ALIVE_MSG" :{
     "description" : "enter you msg",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ⚜️tIKKA BOT"
     },
      
      "ALIVE_LOGO" :{
